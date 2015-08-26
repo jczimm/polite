@@ -14,7 +14,7 @@ polite.whenAlright([], function() {
 });
 ```
 
-**Polite** can be used as a local.
+**Polite** can be used as a local instance.
 
 ```javascript
 var Polite = require('polite').Polite;
